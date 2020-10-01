@@ -1,0 +1,20 @@
+.progress {
+  height: 4px;
+  margin: 45px;
+  background-color: #330867;
+}
+.progress-bar {
+  background-color: #ffffff;
+}
+.sunrise {
+  position: relative;
+  top: 35px;
+  left: 60px;
+  color: #ffffff65;
+}
+.sunset {
+  position: relative;
+  top: 35px;
+  right: 60px;
+  color: #ffffff65;
+}

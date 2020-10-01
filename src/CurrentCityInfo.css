@@ -1,0 +1,6 @@
+.current-city-info .city-specs {
+  padding: 15px;
+}
+.current-city-info .description {
+  text-transform: capitalize;
+}
