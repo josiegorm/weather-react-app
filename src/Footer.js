@@ -4,8 +4,10 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <p className="footer">
-      <a href="https://github.com/josiegorm/weather-app">Open-source code</a> by
-      Josie Gormley
+      <a href="https://github.com/josiegorm/weather-react-app">
+        Open-source code
+      </a>{" "}
+      by Josie Gormley
     </p>
   );
 }
